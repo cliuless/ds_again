@@ -26,9 +26,7 @@
 
 ### <a name="section-i"></a>i. Administrative
 
-* [Class Roster]()
-* [Feedback Form]()
-* [Student Catalog]()
+* [Student Catalog](administrative/Metis_Student_Catalog_NY.pdf)
 
 ---
 
