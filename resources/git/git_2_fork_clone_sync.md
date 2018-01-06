@@ -5,13 +5,13 @@
 #### Step 1:  Go to repo
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/thisismetis/nyc17_ds10  
+In this example, it is:  https://github.com/thisismetis/nyc18_ds14
 :arrow_right: **NOTE:  bookmark this**
 
 #### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/nyc17_ds10  
+Go to my forked repo: https://github.com/thisismetis/nyc18_ds14  
 :arrow_right: **NOTE:  bookmark this**
  
 #### Step 3:  Clone repo
@@ -31,11 +31,11 @@ $ pwd
 $ cd metisgh/
 $ ls
 
-$ git clone https://github.com/reshama/nyc17_ds10.git
+$ git clone https://github.com/reshama/nyc18_ds14.git
 ```
 #### Step 4:  `cd` into cloned repo
 ```bash
-$ cd nyc17_ds10
+$ cd nyc18_ds14
 ```
 
 --
@@ -44,21 +44,21 @@ $ cd nyc17_ds10
 
 If there are changes to the original repo, how do you get them?  You need to tell your local repo that it can also get updates from the original.
 
-Origin:  reshama/nyc17_ds10
+Origin:  reshama/nyc18_ds14
 
 
 **Note:  Need to be in that directory on Unix to update repo**
 ```
 $ git remote -v
-origin	https://github.com/reshama/nyc17_ds10.git (fetch)
-origin	https://github.com/reshama/nyc17_ds10.git (push)
+origin	https://github.com/reshama/nyc18_ds14.git (fetch)
+origin	https://github.com/reshama/nyc18_ds14.git (push)
 ```
 
 Want to add reference to metis repo (which is master repo)
 Note:  can call it “upstream” or “root” or any other name
 
 ```
-$ git remote add upstream https://github.com/thisismetis/nyc17_ds10.git
+$ git remote add upstream https://github.com/thisismetis/nyc18_ds14.git
 ```
 
 Now we see we have two remotes: 
@@ -66,17 +66,17 @@ Now we see we have two remotes:
 * upstream
 ```
 $ git remote -v
-origin	https://github.com/reshama/nyc17_ds10.git (fetch)
-origin	https://github.com/reshama/nyc17_ds10.git (push)
-upstream	https://github.com/thisismetis/nyc17_ds10.git (fetch)
-upstream	https://github.com/thisismetis/nyc17_ds10.git (push)
+origin	https://github.com/reshama/nyc18_ds14.git (fetch)
+origin	https://github.com/reshama/nyc18_ds14.git (push)
+upstream	https://github.com/thisismetis/nyc18_ds14.git (fetch)
+upstream	https://github.com/thisismetis/nyc18_ds14.git (push)
 ```
 
 --
 
 ## Part 3:  Sync repos
 
-#### Workflow:  get files from metis (master) down to local (my computer) and up to origin (me/nyc17_ds10)
+#### Workflow:  get files from metis (master) down to local (my computer) and up to origin (me/nyc18_ds14)
 
 **Always "git pull" before sending up any changes**
 
@@ -133,7 +133,7 @@ Delta compression using up to 4 threads.
 Compressing objects: 100% (52/52), done.
 Writing objects: 100% (55/55), 51.21 MiB | 6.26 MiB/s, done.
 Total 55 (delta 14), reused 0 (delta 0)
-To https://github.com/reshama/nyc17_ds10.git
+To https://github.com/reshama/nyc18_ds14.git
    73c9b7f..e2fa70b  master -> master
 
 ```
