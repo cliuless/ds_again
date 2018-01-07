@@ -40,6 +40,8 @@
 
 **12:00 pm**: Lunch
 
+**12:30 pm**: Policies Orientation/ Careers
+
 **1:30pm**: [Introduce and sign up for Investigations](../../../investigations)
 
 **1:45 pm**: [Introducing Benson!](../../../projects/01-benson)
