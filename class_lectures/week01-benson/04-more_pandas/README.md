@@ -16,7 +16,7 @@
 		Jaydon, Wendy
 		Sungwan, Malik
 
-**10:00 am**: [(Deep) copying :copyright: and pandas!](deep_vs_shallow_copying.ipynb) :panda_face: :panda_face:
+**10:30 am**: [Deep vs Shallow Copying](deep_vs_shallow_copying.ipynb)
 
 **11:00 am**: [Pandas 2](pandas2_groupby_merge.ipynb)
 
