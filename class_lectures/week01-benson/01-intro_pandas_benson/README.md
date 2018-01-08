@@ -44,11 +44,13 @@
 
 **1:30pm**: [Introduce and sign up for Investigations](../../../investigations)
 
-**1:45 pm**: [Introducing Benson!](../../../projects/01-benson)
+**1:45 pm**: [Git & Git Hub](intro_to_git_and_github.pdf)
 
-**2:00 pm**: [Git & Git Hub](intro_to_git_and_github.pdf)
+**3:00 pm**: [Pandas](Intro-to-Pandas.ipynb)
+
+**4:00 pm**:[Introducing Benson!](../../../projects/01-benson)
  
-**3:30 pm**: Break to working on Benson and/or challenge work.
+**4:30 pm**: Break to working on Benson and/or challenge work.
 
  * Note: Challenges [1](../../../challenges/challenges_questions/01-mta) & [2](../../../challenges/challenges_questions/02-primer) are released
 
@@ -58,3 +60,6 @@
  
  * Python, matplotlib, and pandas [cheatsheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
  * Chris Albon has quite a lot of resources on [his site](http://chrisalbon.com/)
+ * The [Atlassian tutorials](https://www.atlassian.com/git/tutorials) are a pretty nice way to get up to speed with `git`.
+ * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+ * git [cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
