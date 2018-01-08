@@ -46,7 +46,7 @@
 
 **1:45 pm**: [Introducing Benson!](../../../projects/01-benson)
 
-**2:00 pm**: [Git & Git Hub]
+**2:00 pm**: [Git & Git Hub](intro_to_git_and_github.pdf)
  
 **3:30 pm**: Break to working on Benson and/or challenge work.
 
