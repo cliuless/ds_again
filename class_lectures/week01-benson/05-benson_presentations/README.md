@@ -4,9 +4,9 @@
 
 **12:00 pm**: Eat something. Your presentations will be better if you're not starving
 
-**1:30 pm**: Show time! Project Benson presentations
+**1:00 pm**: Show time! Project Benson presentations
 
-**3:30 pm**: End-of-week wrap up:
+**3:00 pm**: End-of-week wrap up:
 
  * Submit things to our class GitHub repo:
      * Pre-work
