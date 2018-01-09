@@ -25,7 +25,9 @@
 
 **12:00 pm**: Lunch
 
-**1:30 pm**:  Project Time
+**1:30 pm**:  Investigation Intro
+
+**1:45 pm**:  Command Line review
 
 
 By the end of the day:
