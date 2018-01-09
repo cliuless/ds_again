@@ -8,7 +8,7 @@ This bash script will download and setup a Conda environment on Mac OS X or Linu
 
 If the Conda directory exists and can be determined to be a Conda installation, a new environment will be created. If the directory does not appear to be a Conda installation, the script will quit.
 
-###Running the Script
+### Running the Script
 
 The script can be downloaded and run from any directory to which you have write access. To run the script, set the variables below. The Conda installation path (`env_path`) can be relative or absolute. Then make the script executable with `chmod +x setup_conda.sh` and run the script from the command line with `./setup_conda.sh`.
 
@@ -33,7 +33,7 @@ python_ver=3.6
 packages="psutil numpy scipy matplotlib seaborn pandas statsmodels jupyter ipython notebook nbconvert sqlalchemy psycopg2 beautifulsoup4 html5lib lxml ipykernel requests flask nltk gensim"
 ```
 
-###Confirming Installation
+### Confirming Installation
 
 Once your installation is complete, you will see the following message:
 ```bash
@@ -47,7 +47,7 @@ Finished creating Conda environment.
 $
 ```
 
-###Navigating the Conda Environment
+### Navigating the Conda Environment
 
 As an example, if the installation directory is:
 ```
@@ -91,7 +91,7 @@ drwxr-xr-x    6    204 Jul 31 11:32 ssl
 $
 ```
 
-###Activating virtual environment
+### Activating virtual environment
 
 `cd` into the appropriate folder to activate this virtual environment:
 ```
