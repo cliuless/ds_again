@@ -1,4 +1,4 @@
-###Hints for Poisson GLM (Challenge Set 9) :fish: :fr:
+### Hints for Poisson GLM (Challenge Set 9) :fish: :fr:
 
 Below are hints to get through first two exercises.  
 
@@ -6,7 +6,7 @@ Linear regression assumes normality of data. Poisson regression with log link fu
 
 Here are some hints:  
 
-####9.1  
+#### 9.1  
 a) Load data.
 ```
 data = pd.read_stata('ships.dta')
@@ -26,7 +26,7 @@ p_glm_no_offset = sm.GLM(Y, X, family=sm.families.Poisson(link=sm.families.links
 This no-offset model will not work well and would yield a deviance of 70.5 and pearson's chi-squared of 65.8. Check with your model answers.
 
 
-####9.2
+#### 9.2
 Poisson regression is typically used to model count data. Often we need to model rates (counts per unit time) instead of counts. For example, in the ships data, it is not meaningful to treat 3 damages during 1 year and 3 damages during 10 years the same way. Hence we need to include an offset term in the model.
 
 a) Take log of the offset variable (months). If not sure why this is done, do a scatterplot of y by x (y=damage, x=months) and see what the distribution looks like before and after the transformation.
@@ -43,7 +43,7 @@ The with-offset model should work better and yield a deviance of 38.7 and pearso
 
 ---
 
-####Starter Code
+#### Starter Code
 
 ```python
 # dummify rank
