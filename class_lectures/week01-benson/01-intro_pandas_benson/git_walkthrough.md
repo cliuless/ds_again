@@ -119,12 +119,12 @@ If you look at your github, you'll see that your repo now matches what we have o
 
 # Using Git in Class
 
-We've seen how to work with git and github from a top level on a simple case, let's make practical use of this. 
+Git can be a bit hairy to work with when you're using Jupyter notebooks. They often save automatically when opened and cause a lot of issues when you're ready to submit your work to the repo. To mitigate this issue create a branch called `notes`. Whenever you want to take notes in the Jupyter notebooks, you can just add and commit them to this branch. This will be your own branch, something you can continuously pull from master and save to. Feel free to get weird on this branch and try out a bunch of crazy things :3
+
+One note about this. When switching between branches, the Working Directory moves with you. Either simply commit in the notes branch before you move into another one, or `git stash` your work. Git's `stash` is a way of saving your current working directory, making some changes and pulling them up later when you're ready to pick it up again. To pick up where you left off, simple `git stash apply` will get your latest stash back up and running.
 
 
-
-
-https://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/
-
-
-asdasdsa 
+## References
+- [Atlassian Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - This is a great reference for git when you're getting started. 
+- [SourceTree](https://www.sourcetreeapp.com/) - An amazing GUI for git. It really helps when things get messy, and you want to visually explore the changes your making to your repos.
+- [Pro Git](https://git-scm.com/book/en/v2) (aka the Git bible) - Dive deeper and learn more about how git REALLY works. Chapters 1, 2, 3 and 7 are a great place to get aquainted with Git.
