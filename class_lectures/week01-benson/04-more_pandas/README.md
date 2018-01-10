@@ -16,7 +16,10 @@
 		Jaydon, Wendy
 		Sungwan, Malik
 
-**10:30 am**: [Deep vs Shallow Copying](deep_vs_shallow_copying.ipynb)
+**10:20 am**: [Deep vs Shallow Copying](deep_vs_shallow_copying.ipynb)
+
+**10:40 am**: [Best Practices for Scientific Coding](pythonic_coding_slides.pdf )     
+*optional*: [Debugging in Python](debugging+logging_slides.pdf)
 
 **11:00 am**: [Pandas 2](pandas2_groupby_merge.ipynb)
 
