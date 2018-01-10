@@ -44,6 +44,7 @@ By the end of the day:
  
  ### Blog examples from previous cohorts:  
  
+ [Jeff Kao](https://hackernoon.com/@jeffykao)    
  [Max Melnick](http://maxmelnick.com)  
  [Ken Myers](https://kennmyers.github.io)  
  [Andre Gatorano](http://andremeetsdata.com)  
