@@ -18,10 +18,7 @@
 		Sungwan, Brad.S
 		Malik, Wendy
 
-**10:00 am**: [Best Practices for Scientific Coding](pythonic_coding_slides.pdf )     
-*optional*: [Debugging in Python](debugging+logging_slides.pdf)
-
-**11:00 am**: [Three Benson Solutions](three_Benson_solutions.ipynb)   
+**10:40 am**: [Three Benson Solutions](three_Benson_solutions.ipynb)   
   *optional*: [Three Benson Solutions via Pandas](three_Benson_solutions_pandas.ipynb)
  
 **12:00 pm**: Lunch time. Brain food.
