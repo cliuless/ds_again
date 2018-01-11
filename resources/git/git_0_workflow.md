@@ -148,6 +148,7 @@ git status
 ```
 ```bash
 git add mta_challenge.ipynb
+git status
 git commit -m 'add my 2nd practice submission'
 ```
 
