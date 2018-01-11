@@ -1,6 +1,7 @@
 # Git Workflow
 
 ## Table of Contents
+
 [Part 0:  Update PS1 file to reflect branch location!](#section-a)  
 [Part 1:  Sync repos (do this first thing in the morning)](#section-b)  
 [Part 2:  Launch Jupyter notebook from working branch.  ](#section-c)  
