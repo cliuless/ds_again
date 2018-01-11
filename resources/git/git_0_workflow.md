@@ -116,6 +116,8 @@ This allows us to edit a file, but git will ignore this ( & file will not be ref
 * Note: you might want to push your 'copy'.ipynb version to your origin.  However, (unfortunately, it will appear in 
 your next pull request submission!) 
 
+* If you really want a remote copy of your *copy.ipynb* file, it would be best to create your own, separate repository for those files. 
+
 
 ### Challenges
 
