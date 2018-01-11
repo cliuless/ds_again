@@ -12,6 +12,11 @@
 ## <a name="section-a"></a>Part 0:  Update PS1 file to reflect branch location!
 #### Add the following lines to your ~/.bash_profile
 
+```bash
+cd 
+nano .bash_profile
+```
+
 ```
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
