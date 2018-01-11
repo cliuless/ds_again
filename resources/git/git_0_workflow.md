@@ -1,15 +1,25 @@
 # Git Workflow
 
 ## Table of Contents
-[Part 1:  Sync repos (do this first thing in the morning)](#section-a)  
-[Part 2:  Launch Jupyter notebook from working branch.  ](#section-b)  
-[Part 3:  Your working branch](#section-c)  
-[Part 4:  Add & Commit File in working branch](#section-d)  
-[Part 5:  Submit pull request from `master` branch](#section-e)  
+[Part 0:  Update PS1 file to reflect branch location!](#section-a)  
+[Part 1:  Sync repos (do this first thing in the morning)](#section-b)  
+[Part 2:  Launch Jupyter notebook from working branch.  ](#section-c)  
+[Part 3:  Your working branch](#section-d)  
+[Part 4:  Add & Commit File in working branch](#section-e)  
+[Part 5:  Submit pull request from `submission` branch](#section-f)  
  
 
-## <a name="section-a"></a>Part 1:  Sync repos (do this first thing in the morning)
+## <a name="section-a"></a>Part 0:  Update PS1 file to reflect branch location!
+#### Add the following lines to your ~/.bash_profile
 
+```
+parse_git_branch() {
+     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+export PS1="\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
+```
+
+## <a name="section-b"></a>Part 1:  Sync repos (do this first thing in the morning)
 #### Step 1:  Make sure you are in your repo and in the `master` branch
 ```bash
 pwd
@@ -63,7 +73,7 @@ Viola!  Everything will be synced up now, and it's a good place to begin the day
 
 ---
 
-## <a name="section-b"></a>Part 2:  Launch Jupyter notebok from working branch.  (Mine is `notes`)
+## <a name="section-c"></a>Part 2:  Launch Jupyter notebok from working branch.  (Mine is `notes`)
 
 #### Step 1:  Check which branch you are in  
 ```bash
@@ -83,7 +93,7 @@ git checkout notes
 
 ---
 
-## <a name="section-c"></a>Part 3:  Your working branch
+## <a name="section-d"></a>Part 3:  Your working branch
 
 ### Note:  this is where you will do any work, in the working branch.  For me, it is `notes`**  
 
@@ -122,7 +132,7 @@ When challenge set is ready for submission, go to next step
 
 ---
 
-## <a name="section-d"></a>Part 4:  Add & Commit File in working branch
+## <a name="section-e"></a>Part 4:  Add & Commit File in working branch
 
 
 ```bash
@@ -142,7 +152,7 @@ git push origin submission0
 ```
 ---
 
-## <a name="section-e"></a>Part 5:  Submit pull request from `submission0` branch
+## <a name="section-f"></a>Part 5:  Submit pull request from `submission0` branch
 
 
 Now it's time to merge our changes with the official Metis repo. To do this, we use a pull request from our submission0 branch into the master branch of development.
