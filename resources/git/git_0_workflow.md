@@ -118,6 +118,8 @@ your next pull request submission!)
 
 * If you really want a remote copy of your *copy.ipynb* file, it would be best to create your own, separate repository for those files. 
 
+** Before you move off of your branch check *status* ! **   Commit any files you don't want to take with you to master; or remove them. 
+
 
 ### Challenges
 
