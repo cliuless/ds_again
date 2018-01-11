@@ -46,3 +46,4 @@
  * [Numpy array tip sheet](http://pages.physics.cornell.edu/~myers/teaching/ComputationalMethods/python/arrays.html), a little old but still pretty good for current `numpy` versions
  * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
  * [Make your own aliases with .gitconfig!](http://michaelwales.com/articles/make-gitconfig-work-for-you/)
+ * [edit PS1 file](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt)
