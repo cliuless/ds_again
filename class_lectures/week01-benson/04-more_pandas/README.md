@@ -26,6 +26,8 @@
 
 **12:00 pm**: Food is the food of the soul
 
+**1:00  pm**: Git Review
+
 **1:30 pm**: Back to work on Benson!
 
 
