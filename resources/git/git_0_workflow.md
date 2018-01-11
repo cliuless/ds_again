@@ -166,21 +166,8 @@ git push origin submission0
 
 Now it's time to merge our changes with the official Metis repo. To do this, we use a pull request from our submission0 branch into the master branch of development.
 
-1. Go to our fork and click the button 'New Pull Request'. It's next to the 'Branch: master' button and on the same section where the 'Clone and Download' button is.  
-![](img/click_pull_req.png)
-
-2. Click the branch to the right, and click the branch you want to merge (sorry, it was meant to be submission0!):  
-![](img/pr_click_sub1.png)
-
-3. Click create pull request:  
- ![](img/create_pr.png)
-
-4. Type in a title for the pull request, and click 'Create Pull Request':
- ![](img/submit_pr.png)
- 
-5. If you go into the Metis repo, under the Pull Requests section, you'll now see your pull request there!
- ![](img/prs.png)
- 
-Great, so now we've pulled our submission0 branch into the master branch of development on the Metis repo. But that means now all the other changes the other students are making to the main thread of development aren't reflected in either our fork or our local clone. Let's sync up.
+1. Navigate to your remote origin github repo.
+2. Choose the branch you want to generate a pull request from ('Ex: Submission0')
+3. Click on 'New Pull Request'
 
 
