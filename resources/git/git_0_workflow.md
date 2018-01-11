@@ -2,7 +2,7 @@
 
 ## Table of Contents
 [Part 1:  Sync repos (do this first thing in the morning)](#section-a)  
-[Part 2:  Launch Jupyter notebook from working branch.  (Mine is `reshama_wip`)](#section-b)  
+[Part 2:  Launch Jupyter notebook from working branch.  ](#section-b)  
 [Part 3:  Your working branch](#section-c)  
 [Part 4:  Add & Commit File in working branch](#section-d)  
 [Part 5:  Submit pull request from `master` branch](#section-e)  
