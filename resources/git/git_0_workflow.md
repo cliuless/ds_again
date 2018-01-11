@@ -8,6 +8,7 @@
 [Part 4:  Add & Commit File in working branch](#section-e)  
 [Part 5:  Submit pull request from `submission` branch](#section-f)  
  
+ 
 ## <a name="section-a"></a>Part 0:  Update PS1 file to reflect branch location!
 #### Add the following lines to your ~/.bash_profile
 Of course, we'll only have to do this once!
