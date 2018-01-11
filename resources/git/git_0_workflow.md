@@ -27,10 +27,8 @@ export PS1="\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 ## <a name="section-b"></a>Part 1:  Sync repos (do this first thing in the morning)
 #### Step 1:  Make sure you are in your repo and in the `master` branch
+
 ```bash
-pwd
-```
->```bash
 pwd
 /Users/julialintern/winter/fork/nyc18_ds14
 ```  
@@ -39,7 +37,7 @@ pwd
 git branch
 ```  
 
->```bash
+```bash
  Benson
 * master
   notes
