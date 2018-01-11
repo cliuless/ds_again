@@ -1,11 +1,11 @@
-#D3.js Visualization - Prep
+# D3.js Visualization - Prep
 
-###Browser
+### Browser
 Have [Google Chrome](https://www.google.com/chrome/) installed - it's the best browser for JavaScript and web development
 
 ---
 
-###References
+### References
 
 Book:  [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345)
 * book is available online for free  
@@ -17,7 +17,7 @@ Book:  [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.
 
 ---
 
-###Getting D3 Visualizations on the Web
+### Getting D3 Visualizations on the Web
 
 [GitHub Pages](https://pages.github.com/)  
 
@@ -27,7 +27,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
 a)  Select "Project Site"  
 b)  Select "Start from Scratch"  
 
->####My Sample D3 Graphs 
+>#### My Sample D3 Graphs 
 This is base (index.html) page:  
 http://reshama.github.io/myd3/  
 This visualization is interactive:  
@@ -35,7 +35,7 @@ http://reshama.github.io/myd3/21_each.html
 
 ---
 
-###Sample Library of D3 Visualizations
+### Sample Library of D3 Visualizations
 
 [Mike Bostock Gallery - examples](https://github.com/mbostock/d3/wiki/Gallery)  
 [Kevin Quealy - examples](http://kpq.github.io)  

@@ -38,6 +38,7 @@ By the end of the day:
  * The [Atlassian tutorials](https://www.atlassian.com/git/tutorials) are a pretty nice way to get up to speed with `git`.
  * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  * git [cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+ * command line [cheat sheet](http://web.pa.msu.edu/people/abdo/unixcc.html)
 
 
 

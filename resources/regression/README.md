@@ -1,4 +1,4 @@
-##Regression
+## Regression
 
 [Linear Regression in Matrix Form](http://www.stat.purdue.edu/~jennings/stat514/stat512notes/topic3.pdf)  
 
