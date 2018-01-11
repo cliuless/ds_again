@@ -1,5 +1,6 @@
 ### Schedule
 
+
 **9:00 am**: [Pair Problem](pair_prime.md)
 
 		Audrey, Summer
@@ -16,11 +17,16 @@
 		Jaydon, Wendy
 		Sungwan, Malik
 
-**10:30 am**: [Deep vs Shallow Copying](deep_vs_shallow_copying.ipynb)
+**10:20 am**: [Deep vs Shallow Copying](deep_vs_shallow_copying.ipynb)
+
+**10:40 am**: [Best Practices for Scientific Coding](pythonic_coding_slides.pdf )     
+*optional*: [Debugging in Python](debugging+logging_slides.pdf)
 
 **11:00 am**: [Pandas 2](pandas2_groupby_merge.ipynb)
 
 **12:00 pm**: Food is the food of the soul
+
+**1:00  pm**: [Git Review](git_workflow.md)
 
 **1:30 pm**: Back to work on Benson!
 
@@ -40,3 +46,4 @@
  * [Numpy array tip sheet](http://pages.physics.cornell.edu/~myers/teaching/ComputationalMethods/python/arrays.html), a little old but still pretty good for current `numpy` versions
  * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
  * [Make your own aliases with .gitconfig!](http://michaelwales.com/articles/make-gitconfig-work-for-you/)
+ * [edit PS1 file](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt)

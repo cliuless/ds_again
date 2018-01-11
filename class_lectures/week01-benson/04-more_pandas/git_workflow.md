@@ -169,6 +169,3 @@ Now it's time to merge our changes with the official Metis repo. To do this, we 
 1. Navigate to your remote origin github repo.
 2. Choose the branch you want to generate a pull request from ('Ex: Submission0')
 3. Click on 'New Pull Request'
-
-
-

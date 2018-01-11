@@ -43,8 +43,7 @@ By the end of the day:
  
  [Jeff Kao](https://hackernoon.com/@jeffykao)    
  [Max Melnick](http://maxmelnick.com)  
- [Ken Myers](https://kennmyers.github.io)  
- [Andre Gatorano](http://andremeetsdata.com)  
+ [Ken Myers](https://kennmyers.github.io)   
  [Will Sorenson](http://will-so.github.io)  
  [Garrett Hoffman](http://garretthoffman.github.io)  
  [trishaandrews.com](http://trishaandrews.com/)  
