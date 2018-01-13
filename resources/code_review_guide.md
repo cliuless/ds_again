@@ -15,7 +15,8 @@ To provide a list of specs for code review.
 
 - has a project repo been set up?  Is it named appropriately?
 - is there a good README?
-- within the repo, are there separate folders for "code", "source", etc.
+- within the repo, are there separate folders for "code", "source", etc. (note: if some code is still a work in progress: 
+put files within directory : "work_in_progress"  or "WIP"
 
 ### Python Guidelines
 
