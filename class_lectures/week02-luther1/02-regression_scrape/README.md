@@ -4,19 +4,19 @@
 
 **9:00 am**: [Pair Problem](pair-html.md)
 
-   Audrey, Jeremy
-   Brian, Jit
-   Jon, Adam
-   Brad.D, Arina
-   Summer, Christine.L
-   Louisa, Pavan
-   Will, Brad.S
-   Kevin, Wendy
-   Matias, Malik
-   Christine.C, Sungwan
-   Laura, Jaydon
-   Mauro, Rishabh
-   Browning, Chris
+      Audrey, Jeremy
+      Brian, Jit
+      Jon, Adam
+      Brad.D, Arina
+      Summer, Christine.L
+      Louisa, Pavan
+      Will, Brad.S
+      Kevin, Wendy
+      Matias, Malik
+      Christine.C, Sungwan
+      Laura, Jaydon
+      Mauro, Rishabh
+      Browning, Chris
 
 **10:00 am**: [Machine Learning Overview](Intro_to_Machine_Learning.pdf) 
 
