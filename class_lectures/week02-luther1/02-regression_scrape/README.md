@@ -1,28 +1,54 @@
 ### Schedule
 
-**9:00 am**: Yo!
+[Thought for the day](http://alisoncossette.github.io/Week_2/)
 
-**9:15 am**: [Pairs!](pair_linear.md)
+**9:00 am**: [Pair Problem](pair-html.md)
 
-**10:00 am**: [Linear Regression: Our 200+ yr-old machine learning friend](Linear_Regression.pdf)
+   Audrey, Jeremy
+   Brian, Jit
+   Jon, Adam
+   Brad.D, Arina
+   Summer, Christine.L
+   Louisa, Pavan
+   Will, Brad.S
+   Kevin, Wendy
+   Matias, Malik
+   Christine.C, Sungwan
+   Laura, Jaydon
+   Mauro, Rishabh
+   Browning, Chris
 
-**11:00 am**: [Selenium Scrape](web_scraping_selenium.ipynb)
+**10:00 am**: [Machine Learning Overview](Intro_to_Machine_Learning.pdf) 
 
-**12:00 pm**: Hunger Games: Eating Frenzy
+**11:00 am**: [Regression](Linear_Regression.pdf)
 
-**1:30 pm**: Investigation Presentation
+**12:00 pm**: Lunch time
 
-**1:45 pm**: [Pickling](Pickling_Python_Objects.ipynb)!
+**1:30 pm**: [beautifulsoup](web_scraping_beautifulsoup.ipynb)
 
-**2:00 pm**: Project Luther individual work on web scrapers, getting data from boxofficemojo.com, etc.
+**2:45 pm**: Intro to [Project Luther](../../../projects/02-luther/)
+
+**3:00 pm**: Brainstorm for your Luther project.
+
+ * Complete your first draft of the Luther project design, from [template](../../../projects/02-luther/template.md), and submit via Slack.
+
+Make sure Benson is closed and move into Luther:
+
+ * Benson presentation available online?
+ * Benson challenges submitted?
+ * Benson project write-up live online and linked in the tracking spreadsheet?
+ * Luther design draft submitted?
 
 
 ### Additional Resources
- * [Linear Regression by Andrew Ng](http://cs229.stanford.edu/notes/cs229-notes1.pdf): Part I is a good explanation of linear regression, with some math.
- * [Machine Learning 1: Linear Regression](http://www.ismll.uni-hildesheim.de/lehre/ml-07w/skript/ml-2up-01-linearregression.pdf): Lecture (in slide form) covering linear regression and model selection in more detail, with more math.
- * The Selenium docs for [Locating Elements](http://selenium-python.readthedocs.org/locating-elements.html)
- * You can use this [XPATH selector tutorial](http://zvon.org/comp/r/tut-XPath_1.html) when you need to construct an xpath selector. You can also check out the [w3schools XPath syntax](http://www.w3schools.com/xpath/xpath_syntax.asp) guide.
- * [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
- * For next-level web scraping (automated, ongoing projects) in Python, check out [scrapy](http://scrapy.org/).
- 
 
+ * Laurie's heavily indented thoughts on [being a data scientist and scoping projects](../../../projects/02-luther/Project_Scope_Notes_for_Brainstorming.md)
+ * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+)
+ * [Discover Devtools](http://discover-devtools.codeschool.com/): a free interactive intro to using Chrome's developer tools
+ * [httpbin](http://httpbin.org/) lets you easily test a lot of HTTP functionality. (And it's [written](https://github.com/Runscope/httpbin) in Python; check it out!)
+ * [Web Scraping with Beautiful Soup](http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html) from some Stanford class
+ * [4 Best Practices of Web Scraping](http://scraping.pro/basic-web-scraping-principles/): not bad advice
+ * The [BeautifulSoup documentation](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) is very good. There are all sorts of methods and they're all described here!
+ * [Newspaper](http://newspaper.readthedocs.org/), a Python library that might be helpful when you want to extract an article from a web site
+ * [Here is an introduction to regular expressions](http://www.diveintopython.net/regular_expressions/)
