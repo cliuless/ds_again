@@ -13,9 +13,10 @@ To provide a list of specs for code review.
 
 ### Repository Set-up
 
-- has a separate repo been set up?  Is it named appropriately?
+- has a project repo been set up?  Is it named appropriately?
 - is there a good README?
-- within the repo, are there separate folders for "code", "source", etc.
+- within the repo, are there separate folders for "code", "source", etc. (note: if some code is still a work in progress: 
+put files within directory : "work_in_progress"  or "WIP")
 
 ### Python Guidelines
 
@@ -23,6 +24,11 @@ To provide a list of specs for code review.
 - are functions being utilized? is the code efficient? can you suggest ways to make it more efficient (ex:  could do something in 10 lines of code that they are using 50 lines for)
 - if someone else were to take over the project/code, how easy would it be for them to follow and pick up?
 - are there adequate and appropriately explanatory comments?
+
+### IPython Guidelines
+
+- were helper functions imported into the Ipython notebook? 
+- did student add mark down cells to help illustrate and delineate the thought process & work flow? 
 
 ### Algorithm Check
 - were appropriate techniques used?
