@@ -29,6 +29,10 @@
  * Remember to push your Challenges to Github!
 
 
+### Further "Reading"
+
+ * [Ten minute video lecture on learning curves](https://www.youtube.com/watch?v=g4XluwGYPaA): Remember: "High bias" is underfitting, "high variance" is overfitting. Andrew Ng builds intuition in how to use learning curves to understand your model.
+ 
 ### What's coming up next week?
 
  * Again early next week, pretty much as soon as you can, you will try
@@ -37,11 +41,3 @@
    anymore. Once you get there, you can expand it, add more analysis,
    improve your answer or answer additional questions.
  * We will have individual (5 min MAX) presentations next Friday morning.
-
-
-### Additional Resources
- 
- * A [visual explanation of conditional probability](http://setosa.io/conditional/)
- * http://www.goldsim.com/Web/Introduction/Probabilistic/MonteCarlo/
- * http://simplystatistics.org/2014/10/13/as-an-applied-statistician-i-find-the-frequentists-versus-bayesians-debate-completely-inconsequential/
- 
