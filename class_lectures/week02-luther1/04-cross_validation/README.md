@@ -1,6 +1,6 @@
 ### Schedule
 
-**9:00 am**: Preparing with coffee.
+**9:00 am**: [Pair Problem](pair_swap_dollar.md)
 
 		Audrey, Jit
 		Jeremy, Adam
@@ -15,8 +15,6 @@
 		Christine.C, Rishabh
 		Laura, Chris
 		Mauro, Browning
-
-**9:15 am**: [Pair Problem](pair_swap_dollar.md)
 
 **10:00 am**: [Intro to Probability](intro_to_probability.ipynb)
 
