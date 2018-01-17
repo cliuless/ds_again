@@ -14,16 +14,16 @@
     Browning, Jaydon
     Chris, Rishabh
 
-**10:00 am**: [Permutation & Combination](Permutation_Combination_ans.md)   
+**10:00 am**: [Permutation & Combination](Permutation_Combination.md)   
 
 **11:00 am**: Together we learn all the things
 * [Regression, statsmodels, sklearn, code-along & the meaning of life](Intro_to_Regression.ipynb)  
 
 **12:00 pm**: Breathe, enjoy the weather, eat, relax.  We'll pick back up just as hard in the afternoon.
 
-**1:30 pm**: [Pickles](Pickling_Python_Objects.ipynb)
+**1:00 pm**: Investigation Presentation
 
-**1:45 pm**: [Selenium](web_scraping_selenium.ipynb)
+**1:15 pm**: [Scrapy](intro_to_scrapy.ipynb)
 
 **2:30 pm**: Free Time, work on:
 * Project Luther (scraping first)
