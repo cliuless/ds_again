@@ -1,3 +1,8 @@
+**Thought for the day:**
+Today, let us progress instead of regress, even when studying regression
+- Subramanian Iyer
+
+
 **9:00 am**: [pairs](pair_linear.md)
 
     Audrey, Brian
