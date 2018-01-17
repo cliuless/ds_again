@@ -30,9 +30,5 @@
 
 **1:30 pm**: [Selenium Scrape](web_scraping_selenium.ipynb)
 
-**1:45 pm**: Even more work!
+**1:45 pm**: Project work!
 
-
-### Further "Reading"
-
- * [Ten minute video lecture on learning curves](https://www.youtube.com/watch?v=g4XluwGYPaA): Remember: "High bias" is underfitting, "high variance" is overfitting. Andrew Ng builds intuition in how to use learning curves to understand your model.
