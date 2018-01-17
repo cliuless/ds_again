@@ -5,7 +5,7 @@
 ---
 | **Course ID**     |  nyc18\_ds14    |
 |:------|:-------|
-| **Section**   | Winter 2018 - Cohort 14 |  
+| **Section**   | Winter 2018 - Cohort 14 |
 | **City**  | New York |
 | **Dates** | 8-Jan-2018 to 30-Mar-2018   |
 | **Slack** |  [ds14 team](https://winter-nyc18-metis.slack.com/) (use the [app](https://slack.com/downloads)) |
@@ -13,14 +13,14 @@
 ---
 
 ### Table of Contents
-[i. Administrative](#section-i)  
-[1. Class Work](#section-a)  
-[2. Projects](#section-b)  
-[3. Challenges](#section-c)  
-[4. Blogs](#section-d)  
-[5. Assessments](#section-e)  
-[6. Investigations](#section-f)  
-[7. Weekly Topics](#section-g)  
+[i. Administrative](#section-i)
+[1. Class Work](#section-a)
+[2. Projects](#section-b)
+[3. Challenges](#section-c)
+[4. Blogs](#section-d)
+[5. Assessments](#section-e)
+[6. Investigations](#section-f)
+[7. Weekly Topics](#section-g)
 
 ---
 
@@ -33,10 +33,10 @@
 ### <a name="section-a"></a>1. Class Work
 
 * [Class Lectures](/class_lectures/)
-  * [List of ALL FILES in /class_lectures/ folder](links/links_all.md)  
-    * [List of All Jupyter notebooks in /class_lectures/ folder](links/links_ipynb.md)  
+  * [List of ALL FILES in /class_lectures/ folder](links/links_all.md)
+    * [List of All Jupyter notebooks in /class_lectures/ folder](links/links_ipynb.md)
     * [List of All PDF Files in /class_lectures/ folder](links/links_pdf.md)
-    * [List of All Markdown files in /class_lectures/ folder](links/links_md.md)  
+    * [List of All Markdown files in /class_lectures/ folder](links/links_md.md)
 * [Resources](resources/)
   * Git Notes
   * Blog Examples
@@ -60,7 +60,7 @@
 ---
 
 ### <a name="section-c"></a>[3. Challenges](/challenges)
- 
+
 * [Instructions](/challenges/README.md)
 * [Questions](/challenges/challenges_questions)
 * [Data](challenges/challenges_data)
@@ -72,7 +72,7 @@
 * Students are permitted and encouraged to work with other students on the challenge sets
 * Students should submit challenges individually (not by group); include names of people with whom you worked in header
 * OK to submit partial work, full set is encouraged but not required
-* Students should submit whatever they have completed by due date; can update and resubmit challenge sets at a later date 
+* Students should submit whatever they have completed by due date; can update and resubmit challenge sets at a later date
 * No grades are assigned; focus is on learning the topics
 
 
@@ -96,62 +96,62 @@
 | 16             | Kojak         | [Hadoop](/challenges/challenges_questions/16-hadoop)                | recommended    | Mon, Mar 12 | Mon, Mar 19 |
 | 17             | Kojak         | [Hive](/challenges/challenges_questions/17-hive)                  | recommended    | Mon, Mar 19 | Mon, Mar 26 |
 
-*Full submission of challenge sets is encouraged, but partial submissions are ok. 
+*Full submission of challenge sets is encouraged, but partial submissions are ok.
 
 ---
 
 ### <a name="section-d"></a>4. Blogs
- 
+
 * Required:  2 blogs
 * Recommended:  5+ blogs
 * [Blog Tracking - link](https://docs.google.com/a/thisismetis.com/spreadsheets/d/1ySIw5LPbZqRVbBOOGH2F-n_YsFMwmmMR9jFXCAhU2gQ/edit?usp=sharing)
 
-| Blog | Topic | Note* | Due |  
+| Blog | Topic | Note* | Due |
 |------|-------|-------|-----|
-| 1    | ds / project 1 | required | Tues, Jan 16 |   
-| 2    | project 2 | required |  Mon, Jan 29 |  
+| 1    | ds / project 1 | required | Tues, Jan 16 |
+| 2    | project 2 | required |  Mon, Jan 29 |
 | 3    | project 3 | recommended |  Mon, Feb 19  |
 | 4    | project 4 | recommended | Mon, Mar 5 |
-| 5    | project 5 final | recommended* | Fri, Apr 2 |  
+| 5    | project 5 final | recommended* | Fri, Apr 2 |
 
-*Blog 5 date is after the bootcamp graduation 
+*Blog 5 date is after the bootcamp graduation
 
 ---
 
 ### <a name="section-e"></a>5. Assessments
- 
+
 * There will be 2 Quizzes given (dates below).  The quiz will be given in class & will be multiple-choice format.
 
-| Quiz | Topics | Note* | Date |  
+| Quiz | Topics | Note* | Date |
 |------|-------|-------|-----|
-| 1    | Weeks 1-4 | required | Mon, Mar 5 |   
-| 2    | Weeks 5-7 | required | Mon, Mar 26 |  
+| 1    | Weeks 1-4 | required | Mon, Mar 5 |
+| 2    | Weeks 5-7 | required | Mon, Mar 26 |
 
 ---
 
 ### <a name="section-f"></a>[6. Investigations (~ 5 minutes long)](/investigations)
 
 * Required:  2 presentations
-* [Investigation Signup Link]()
+* [Investigation Signup Link](https://docs.google.com/spreadsheets/d/17JrdbB5UJkOWQRSqSdCWvdxrOG4a_GR6nDBZpKogvl8/edit#gid=0)
 * After investigation presentation, a pdf copy should be submitted (via pull request) to the course repo, under [student_submissions/investigations](/student_submissions/investigations) folder
 
 ---
 
 ### <a name="section-g"></a>[7. Weekly Topics](/class_lectures/)
 
-| Wk | Date  | Project | Topics                 |  
+| Wk | Date  | Project | Topics                 |
 |----|-------|---------|-------------------------|
-| 1  | 1/8| Benson | [GitHub, MTA Turnstile, Pandas, Visualization with Matplotlib](/class_lectures/week01-benson/) |   
-| 2  | 1/15| Luther | [Webscraping, Pickling, Linear Regression, Cross-validation,probability](/class_lectures/week02-luther1/)  |  
-| 3 |  1/22 | Luther  | [Linear Regression, Regularization, Null Hypothesis, Bayes](/class_lectures/week03-luther2/)        |   
-| 4 | 1/29 | McNulty  | [Supervised Learning, K-Nearest Neighbors, Logistic Regression, Amazon AWS, PostgreSQL, Support Vector Machine, Decision Trees and Random Forests](/class_lectures/week04-mcnulty1/) |    
-| 5 | 2/5 | McNulty   | [Naive Bayes Classification, SGD, Deep Learning and Neural Networks, Javascript, Flask & D3](/class_lectures/week05-mcnulty2/) |  
-| 6  | 2/12 | McNulty | [MLE, GLM, Poisson, NLP, APIs, Mongo](/class_lectures/week06-mcnulty3/)      |      |  
-| 7  | 2/19| Fletcher     | [KMeans, PCA, LDA, Word2Vec, More Clustering](/class_lectures/week07-fletcher1/) |  
-| 8  | 2/26 | Fletcher     | [Review, Recommenders, More Deep Learning ](/class_lectures/week08-fletcher2/)      |  
-| 9  | 3/5 | Kojak |  [Docker, Hadoop, Hive, Spark](/class_lectures/week09-kojak1/) |     
-| 10 | 3/12     | Kojak | Final Project Work        |  
-| 11 | 3/19    | Kojak | Final Project Work |    
-| 12 | 3/26    | Kojak | Final Project Work |  
+| 1  | 1/8| Benson | [GitHub, MTA Turnstile, Pandas, Visualization with Matplotlib](/class_lectures/week01-benson/) |
+| 2  | 1/15| Luther | [Webscraping, Pickling, Linear Regression, Cross-validation,probability](/class_lectures/week02-luther1/)  |
+| 3 |  1/22 | Luther  | [Linear Regression, Regularization, Null Hypothesis, Bayes](/class_lectures/week03-luther2/)        |
+| 4 | 1/29 | McNulty  | [Supervised Learning, K-Nearest Neighbors, Logistic Regression, Amazon AWS, PostgreSQL, Support Vector Machine, Decision Trees and Random Forests](/class_lectures/week04-mcnulty1/) |
+| 5 | 2/5 | McNulty   | [Naive Bayes Classification, SGD, Deep Learning and Neural Networks, Javascript, Flask & D3](/class_lectures/week05-mcnulty2/) |
+| 6  | 2/12 | McNulty | [MLE, GLM, Poisson, NLP, APIs, Mongo](/class_lectures/week06-mcnulty3/)      |      |
+| 7  | 2/19| Fletcher     | [KMeans, PCA, LDA, Word2Vec, More Clustering](/class_lectures/week07-fletcher1/) |
+| 8  | 2/26 | Fletcher     | [Review, Recommenders, More Deep Learning ](/class_lectures/week08-fletcher2/)      |
+| 9  | 3/5 | Kojak |  [Docker, Hadoop, Hive, Spark](/class_lectures/week09-kojak1/) |
+| 10 | 3/12     | Kojak | Final Project Work        |
+| 11 | 3/19    | Kojak | Final Project Work |
+| 12 | 3/26    | Kojak | Final Project Work |
 
-*Metis is closed on 15-Jan-2018 (MLK holiday) 
+*Metis is closed on 15-Jan-2018 (MLK holiday)
