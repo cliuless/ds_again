@@ -23,7 +23,7 @@
 
 **1:00 pm**: Investigation Presentation
 
-**1:15 pm**: Scrappy
+**1:15 pm**: [Scrapy](intro_to_scrapy.ipynb)
 
 **2:30 pm**: Free Time, work on:
 * Project Luther (scraping first)
