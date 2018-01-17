@@ -30,7 +30,7 @@ In this case 4! is 24. We have 5040 from above. So 5040/24=210
 nCr = N!/((N-r)!r!)
 
 
-## Challenge 1
+## Challenge
 
 There are 10 kids what to order ice cream. Each one can choose between chocolate, vanilla or strawberry. You'll collect their choices and make one order, something like: 5 chocolate, 3 vanilla and 2 strawberry. How many possible orders can you make, where every flavor is represented (8c, 1v, 1s is valid but 8c, 2v, 0s is not valid)?
 
