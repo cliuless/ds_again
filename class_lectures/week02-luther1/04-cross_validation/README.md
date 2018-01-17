@@ -32,3 +32,9 @@
 
 **1:45 pm**: Project work!
 
+
+### Additional Resources
+ 
+ * A [visual explanation of conditional probability](http://setosa.io/conditional/)
+ * http://www.goldsim.com/Web/Introduction/Probabilistic/MonteCarlo/
+ * http://simplystatistics.org/2014/10/13/as-an-applied-statistician-i-find-the-frequentists-versus-bayesians-debate-completely-inconsequential/
