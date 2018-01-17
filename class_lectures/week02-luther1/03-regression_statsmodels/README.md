@@ -21,9 +21,9 @@
 
 **12:00 pm**: Breathe, enjoy the weather, eat, relax.  We'll pick back up just as hard in the afternoon.
 
-**1:30 pm**: [Pickles](Pickling_Python_Objects.ipynb)
+**1:00 pm**: Investigation Presentation
 
-**1:45 pm**: [Selenium](web_scraping_selenium.ipynb)
+**1:15 pm**: [Scrapy](intro_to_scrapy.ipynb)
 
 **2:30 pm**: Free Time, work on:
 * Project Luther (scraping first)
