@@ -1,5 +1,7 @@
 ### Schedule
 
+Note: Please make sure you have Chrome installed (we will be working with it this afternoon) 
+
 **9:00 am**: [Pair Problem](pair_swap_dollar.md)
 
 		Audrey, Jit
@@ -30,7 +32,7 @@
 
 **1:30 pm**: [Selenium Scrape](web_scraping_selenium.ipynb)
 
-**1:45 pm**: Project work!
+**2:30 pm**: Project work!
 
 
 ### Additional Resources
