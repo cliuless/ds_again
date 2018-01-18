@@ -1,3 +1,9 @@
+**Thought for the day:**     
+
+Today, let us progress instead of regress, even when studying regression
+- Subramanian Iyer
+
+
 **9:00 am**: [pairs](pair_linear.md)
 
     Audrey, Brian
@@ -14,7 +20,7 @@
     Browning, Jaydon
     Chris, Rishabh
 
-**10:00 am**: [Permutation & Combination](Permutation_Combination_ans.md)   
+**10:00 am**: [Permutation & Combination](Permutation_Combination.md)   
 
 **11:00 am**: Together we learn all the things
 * [Regression, statsmodels, sklearn, code-along & the meaning of life](Intro_to_Regression.ipynb)  
