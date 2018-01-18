@@ -24,7 +24,7 @@ Note: Please make sure you have Chrome installed (we will be working with it thi
 
 **11:30 am**: [Continuous Probability](continuous_probability.ipynb).
 
-**12:00 am**: Essen.
+**12:00 am**: Lunch.
 
 **1:00 pm**: Investigation Presentation
 
