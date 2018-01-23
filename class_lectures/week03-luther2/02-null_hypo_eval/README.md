@@ -18,9 +18,8 @@
 		Kevin, Laura
 		Matias, Christine.C
 
-**10:00 am**: [Statistical Hypothesis Testing](Statistical_Hypothesis_Testing.ipynb)
 
-**10:30 am**: [Linear Model Evaluation](Linear_Model_Evaluation.pdf)
+**10:00 am**: [Linear Model Evaluation](Linear_Model_Evaluation.pdf)
 
 **11:30 am**: Minimum Viable Products! [Just do it!](https://www.youtube.com/watch?v=UhRXn2NRiWI)
 
