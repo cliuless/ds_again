@@ -37,3 +37,4 @@
 
  * [More on hypothesis testing](https://dataiap.github.io/dataiap/day3/hypothesis_testing.html)
  * [Scipy has functions for many hypothesis tests](http://docs.scipy.org/doc/scipy/reference/stats.html#statistical-functions)
+ * [Standard error calc ref] (https://stats.stackexchange.com/questions/44838/how-are-the-standard-errors-of-coefficients-calculated-in-a-regression/44841#44841)
