@@ -11,7 +11,7 @@ Notes:
  * Start by getting a correct solution for the examples they give. Then try to get a perfect 100 score on the site.
  * Try the following test cases: 
  
- Ten valid examples:
+ Ten valid examples:  
     b@d.net  
     1@d.net   
     b@domain.net  
