@@ -40,4 +40,4 @@ To further improve the model, I am adding up interaction terms. And I am also tr
 ![alt text](https://github.com/MauroGentile/nyc18_ds14/blob/master/student_submissions/MVP/figures/normal1.png)
 ![alt text](https://github.com/MauroGentile/nyc18_ds14/blob/master/student_submissions/MVP/figures/log.png)
 
-
+![alt text](https://github.com/MauroGentile/nyc18_ds14/blob/master/student_submissions/MVP/figures/3.png)
