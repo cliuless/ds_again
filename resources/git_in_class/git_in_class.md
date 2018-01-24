@@ -48,7 +48,7 @@ This resource covers the main activities you'll use Git with, and resolving some
 7. Open up **YOUR FORK** on Github, and click 'New Pull Request'.
 ![](img/click_pull_req.png)
 
-8. Click the branch to the right, and click the branch you want to merge (sorry, it was meant to be submission0!):  
+8. Click the branch to the right, and click the branch you want to merge:  
 ![](img/pr_click_sub1.png)
 
 3. Click create pull request:  
@@ -76,3 +76,8 @@ If you want to save your current branch's state before doing this (just in case)
 2. `git reset --hard upstream/master` - this REMOVES EVERYTHING from your staging and your working directory. If you have any unsaved work in the working directory, it will be lost. Be careful here! `git stash` before you do this if you want to save your work!
 
 Your master branch should be the same now as the upstream. From here, you can branch off, and submit your work, or use the new branch to continue the notes you've been making.
+
+If you've pushed the broken master branch to your github repo, I'd suggest cleaning that up too, run:
+- `git push origin master --force`
+
+This will force the master branch to have the same history as the fresh and newly updated one on your local machine.
