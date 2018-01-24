@@ -12,25 +12,25 @@ Notes:
  * Try the following test cases: 
  
  Ten valid examples:
-    b@d.net
-    1@d.net
-    b@domain.net
-    bob123@alice123.com
-    very.common@example.com
-    niceandsimple@example.com
-    a.little.lengthy.but.fine@dept.example.com
-    disposable.style.email.with+156@example.com
-    disposable.style.email.with+symbol@example.com
-    "very.unusual.@.unusual.com"@example.com
+    b@d.net  
+    1@d.net   
+    b@domain.net  
+    bob123@alice123.com   
+    very.common@example.com  
+    niceandsimple@example.com  
+    a.little.lengthy.but.fine@dept.example.com  
+    disposable.style.email.with+156@example.com   
+    disposable.style.email.with+symbol@example.com  
+    "very.unusual.@.unusual.com"@example.com   
     
-Ten invalid examples:
-    hfij#kjdfvkl
-    Abc.example.com
-    this is not true
-    <invalid>@foo.com
-    A@b@c@example.com
-    asterisk_domain@foo.*
-    just"not"right@example.com
-    this is"not\allowed@example.com
-    a"b(c)d,e:f;g<h>i[j\\k]l@example.com
-    this\ still\"not\\allowed@example.com
+Ten invalid examples:   
+    hfij#kjdfvkl  
+    Abc.example.com   
+    this is not true   
+    <invalid>@foo.com   
+    A@b@c@example.com   
+    asterisk_domain@foo.*   
+    just"not"right@example.com   
+    this is"not\allowed@example.com   
+    a"b(c)d,e:f;g<h>i[j\\k]l@example.com    
+    this\ still\"not\\allowed@example.com   
