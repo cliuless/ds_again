@@ -20,7 +20,7 @@
 
 **10:00 am**: [The Joy of Bayes](Bayes.pdf)
 
-**11:00 am**: [Time Series](Time_Series.pdf)
+**11:00 am**: [Time Series](Time_Series_ds14.pdf)
 
 **12:00 pm**: Eat Something
 
