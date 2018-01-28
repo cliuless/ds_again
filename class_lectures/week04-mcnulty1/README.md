@@ -13,13 +13,10 @@ We are going to start off the week with an introduction of Project 3: McNulty. W
 
 ---
 
-### <a name="events"></a>Events this week:
-?
-
 ### <a name="dates"></a>Upcoming Due Dates & Checkpoints:
-* ** MON  1/29**   Challenges 5 & 6 are due -- Challenges 7 & 8 are released
-* ** MON  2/05**   Quiz 1
-* ** WEDS 2/14 **  Project McNulty is Due!
+** MON  1/29**   Challenges 5 & 6 are due -- Challenges 7 & 8 are released
+** MON  2/05**   Quiz 1
+** WEDS 2/14 **  Project McNulty is Due!
 
 
 ---
