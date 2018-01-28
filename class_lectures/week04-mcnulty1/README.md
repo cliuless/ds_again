@@ -8,7 +8,7 @@ This will also be your first week on the road towards both SQL & AWS expertise.
 
 #### Technical Focus
 
-We are going to start off the week with an introduction of Project 3: McNulty. We will then give an introduction to Classification as well as the KNN algorithm.  We will each launch our very own Elastic Cloud Computers (EC2) on AWS as well as various installs there including Postgres.  This will lead into a discussion of relational database design and SQL.  We will continue our discussion of classification theory and implentation by covering: logistic regression, support vector machine, decision tree and Random Forest algorithms.  We will also discuss different metrics to assess our model performance via the classification error lesson.  Lastly, we will check our understanding of all the topics we have covered so far with a quiz on Friday. 
+We are going to start off the week with an introduction of Project 3: McNulty. We will then give an introduction to Classification as well as the KNN algorithm.  We will each launch our very own Elastic Cloud Computers (EC2) on AWS as well as various installs there including Postgres.  This will lead into a discussion of relational database design and SQL.  We will continue our discussion of classification theory and implentation by covering: logistic regression, support vector machine, decision tree and Random Forest algorithms.  We will also discuss different metrics to assess our model performance via the classification error lesson.  Lastly, we will check our understanding of all the topics we have covered so far with a quiz next Monday.
 
 
 ---
