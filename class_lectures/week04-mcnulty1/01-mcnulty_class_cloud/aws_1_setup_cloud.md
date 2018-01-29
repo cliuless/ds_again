@@ -140,7 +140,7 @@ If you do not have them, generate them with `ssh-keygen -t rsa`
 **Launch Instance**
 
 ## Set Up Billing  
-Find (in blue):  "Get notified of estimated charges"  
+Click on Billing -- > Click on Preferences     
 Select **Create billing alerts**  
 Check all 3 preferences and select **Save preferences**  
 You can then close this tab.  
