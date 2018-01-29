@@ -3,7 +3,7 @@
 
 #### Check which version of python is installed
 ```console
-ubuntu@ip-172-31-60-68:~$ python --version
+ubuntu@ip-172-31-60-68:~$ python3 --version
 Python 2.7.6
 ubuntu@ip-172-31-60-68:~$
 ```
@@ -21,7 +21,7 @@ sudo apt-get install python-pip
 ```
 ubuntu@ip-172-31-60-68:~$ sudo apt-get update
 ```
-#### [`apt-get` Package Management Tool](https://help.ubuntu.com/12.04/serverguide/apt-get.html)   
+#### [`apt-get` Package Management Tool](http://manpages.ubuntu.com/manpages/xenial/en/man8/apt-get.8.html)   
 Read more about `apt-get` at above link.  
 
 
