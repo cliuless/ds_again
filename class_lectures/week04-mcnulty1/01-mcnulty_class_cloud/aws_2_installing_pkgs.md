@@ -4,7 +4,7 @@
 #### Check which version of python is installed
 ```console
 ubuntu@ip-172-31-60-68:~$ python3 --version
-Python 2.7.6
+Python 3.5.2
 ubuntu@ip-172-31-60-68:~$
 ```
 #### Let's use `pip list` to see which packages are installed
