@@ -59,8 +59,7 @@ Optional - more ports to add:
       
 **Review and Launch**    
 
-Step 7) Review Instance Launch: your set-up will look like below screenshot  
-![aws_review_instance](images/aws_review_instance.png)
+Step 7) Review Instance Launch
 
 **Launch**  
 
