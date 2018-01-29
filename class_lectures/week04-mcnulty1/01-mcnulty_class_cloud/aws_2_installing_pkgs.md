@@ -3,8 +3,8 @@
 
 #### Check which version of python is installed
 ```console
-ubuntu@ip-172-31-60-68:~$ python --version
-Python 2.7.6
+ubuntu@ip-172-31-60-68:~$ python3 --version
+Python 3.5.2
 ubuntu@ip-172-31-60-68:~$
 ```
 #### Let's use `pip list` to see which packages are installed
@@ -21,7 +21,7 @@ sudo apt-get install python-pip
 ```
 ubuntu@ip-172-31-60-68:~$ sudo apt-get update
 ```
-#### [`apt-get` Package Management Tool](https://help.ubuntu.com/12.04/serverguide/apt-get.html)   
+#### [`apt-get` Package Management Tool](http://manpages.ubuntu.com/manpages/xenial/en/man8/apt-get.8.html)   
 Read more about `apt-get` at above link.  
 
 
@@ -131,8 +131,8 @@ Host my_machine_name
 Give your machine the name: `myaws`
 ```
 Host myaws
-     HostName 54.172.80.95
-     User julialintern
+HostName 54.172.80.95
+User julialintern
 ```
 Now you can log in to your remote machine with `ssh myaws`.
 
@@ -151,6 +151,40 @@ julialintern$ scp trysql.py myaws:~
 ```
 Note:  check your user account on AWS.  The file was copied there!!! :clap:
 
+**Lastly:**   
+
+Lets add conda 
+
+```bash
+wget https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
+
+bash Anaconda3-4.2.0-Linux-x86_64.sh
+```
+
+Press enter a few times  
+
+Type ‘yes’ to agree   
+
+‘Press ENTER to confirm the location’    
+
+Do you wish the installer to prepend the Anaconda3 install location to PATH in your /home/ubuntu/.bashrc ? [yes|no] [no] >>> yes
+
+```
+which python
+```
+
+**launch jupyter**
+
+```
+jupyter notebook
+```
+
+
+We're going to create a tunnel connection to our notebook:   
+From your local machine, run:    
+```
+ssh ubuntu -NL 12345:localhost:8888 username@##.###.####
+```
 ---
 
 # THE POSSIBILITIES ARE ENDLESS

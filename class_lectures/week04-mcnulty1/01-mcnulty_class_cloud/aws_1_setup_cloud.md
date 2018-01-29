@@ -35,28 +35,31 @@ Name a new security group and allow some more ports if you like.
 This port may already be there:  
 >     Add Rule:  select 'SSH'  
       Port Range: 22
-      Source:  Anywhere  
+      Source:  MyIP
 
 Add this port:  
 >     Add Rule:  select 'Custom TCP Rule'  
       Port Range: 80  (for web REST)
-      Source:  Anywhere  
+      Source:  MyIP
 
 Optional - more ports to add:  
 >     Add Rule:  select 'HTTPS'  
       Port Range: 443
-      Source:  Anywhere  
+      Source:  MyIP
 
 >     Add Rule:  select 'Custom TCP Rule'  
       Port Range: 8888  (ipython will be accessable via this port)
-      Source:  Anywhere  
+      Source:  MyIP  
+      
+>     Add Rule:  select 'Custom TCP Rule'  
+      Port Range: 5432  (postgres will be accessable via this port)
+      Source:  MyIP 
 
  
       
 **Review and Launch**    
 
-Step 7) Review Instance Launch: your set-up will look like below screenshot  
-![aws_review_instance](images/aws_review_instance.png)
+Step 7) Review Instance Launch
 
 **Launch**  
 
@@ -137,7 +140,7 @@ If you do not have them, generate them with `ssh-keygen -t rsa`
 **Launch Instance**
 
 ## Set Up Billing  
-Find (in blue):  "Get notified of estimated charges"  
+Click on Billing -- > Click on Preferences     
 Select **Create billing alerts**  
 Check all 3 preferences and select **Save preferences**  
 You can then close this tab.  
