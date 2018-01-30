@@ -32,7 +32,8 @@
 
 
 #### More reading
-
+ 
+ * [Various optimizers](http://fa.bianp.net/blog/2013/numerical-optimizers-for-logistic-regression/)
  * [Derive Gradient on Logistic & more](http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/)
  * [The math behind logistic regression](http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf)
  * [More math beyond supervised learning (linear AND logistic regression)](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
