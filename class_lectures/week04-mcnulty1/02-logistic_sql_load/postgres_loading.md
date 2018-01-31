@@ -9,7 +9,8 @@
 sudo apt-get install postgresql postgresql-contrib
 ```
 
-This will install _and start up_ Postgres. You can check:
+This will install the latest version available in your Ubuntu release (and the commonly used add-ons for it.)
+This command will also start our server. You can check:     
 
 ```bash
 ps awx | grep post
@@ -30,7 +31,9 @@ sudo -u postgres createuser --superuser my_user_name
 sudo -u postgres psql
 # now in psql...
 \password my_user_name
-# exit psql...
+# exit psql...   
+\q
+
 sudo -u postgres createdb my_user_name
 ```
 
