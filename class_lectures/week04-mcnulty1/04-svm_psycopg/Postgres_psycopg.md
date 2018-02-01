@@ -110,5 +110,12 @@ Now-- we will go to your LOCAL bash & install psycopg
 
 
 ```bash
-pip install psycopg2
+pip install psycopg2   
+jupyter notebook
+```
+
+# from local (todays directory in repo) 
+```bash
+scp psycopg_sqlAlchemy.ipynb myaws:~
+ssh myaws -NL 12345:localhost:8888 username@##.###.####
 ```
