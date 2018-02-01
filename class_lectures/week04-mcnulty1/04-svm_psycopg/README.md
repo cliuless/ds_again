@@ -16,7 +16,7 @@
 		Jeremy, Brad.D
 		Brian, Jon
 
-**10:30 am**: [Support Vector Machines](SVM_Part1.pdf)[ and Kernels](SVM_Part2.pdf)
+**10:30 am**: [Support Vector Machines](SVMs_and_kernels.ipynb)
 
 **11:30 am**: [SVM with digits](SVM_digits.ipynb)
 
