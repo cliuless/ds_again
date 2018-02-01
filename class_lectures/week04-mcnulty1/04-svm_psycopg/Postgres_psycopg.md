@@ -67,47 +67,10 @@ COPY Schools FROM '/home/username/baseballdata/Schools.csv' DELIMITER ',' CSV HE
 
 ## Connect to Postgres! 
 
- We want to connect Postgres with SQL Alchemy and psycopg locally.  But first we'll just have to change a few settings.. 
-
- # \q to get out of sql database 
-
-```bash
-sudo su - postgres
-nano /etc/postgresql/9.5/main/postgresql.conf
-```
-
-On our postgresql.conf: change your
-change listen_addresses='localhost' to listen_addresses='*'   
-Hint: make sure the line is no longer commented out   
-Hint Hint: while in nano you can use control w for search (just search for 'listen_addresses')    
-
-```bash
-nano /etc/postgresql/9.5/main/pg_hba.conf
-```
-
-On our pg_hba.conf: let's add:
-'host    all      all      65.209.60.146/0     trust'
-
-(Save file and exit)
-
-Restart server
-
-```bash
-su username
-sudo service postgresql restart
-```
-
-Now we have to add a rule to the Security 
-Group of your AWS instance: 
-
- 
-| Type        | Protocol           | Port Range  | Source |
-| ------------- |:-------------:| -----:| -----:|
-| Custom TCP rule     | TCP | 5432 |Anywhere |
+ We want to connect Postgres with SQL Alchemy and psycopg locally.  Let's do that  
 
 
-Now-- we will go to your LOCAL bash & install psycopg
-
+On your EC2: 
 
 ```bash
 pip install psycopg2   
