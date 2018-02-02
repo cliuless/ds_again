@@ -59,3 +59,10 @@ recall, for example. F1 is the Fß for which ß = 1. In
 
 The [wikipedia page](http://en.wikipedia.org/wiki/F1_score) has more on this relationship.
 
+#### More SVM
+[nice video on Lagrangian multipliers](https://github.com/thisismetis/nyc18_ds14/edit/master/class_lectures/week04-mcnulty1/05-trees_forests/README.md)
+
+[more on the optimization - video](https://www.youtube.com/watch?v=1aQLEzeGJC8)
+
+[More SVMs (pg 337)](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+
