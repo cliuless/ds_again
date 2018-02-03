@@ -1,5 +1,7 @@
 # Investigations
 
+Signup list: https://docs.google.com/spreadsheets/d/17JrdbB5UJkOWQRSqSdCWvdxrOG4a_GR6nDBZpKogvl8/edit#gid=0
+
 These investigation presentations aim to introduce you to interesting applications and sub-topics of machine learning and data science more broadly. You will research and present briefly on your topic, becoming a relative expert. Your classmates will research and present on their topics so that you may learn from them. This process should expand your appreciation of various ways that data science is applied and help you to think about ways that you can apply what you're learning for your final project.
 
 You can choose from the starter list of topics below, or choose an application that you discover independently, as long as you don't duplicate anyone else's topic. The links included with the starter list represent a starting point - often you'll be able to find much more if you are interested.
