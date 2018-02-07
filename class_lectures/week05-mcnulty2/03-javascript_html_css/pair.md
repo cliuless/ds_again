@@ -23,7 +23,7 @@ For the dataset:
     
 For your own Naive Bayes:
 
-    1) Split data into train and test
+    1) Split data into train and test: easiest way is to create a seperate folder for test and move some files there
     2) Count how often a word appears in the positive training set and negative training set
     3) Change that into log probabilities
     4) For each review in the test set, simply sum up it's words' log probability for being positive and negative
