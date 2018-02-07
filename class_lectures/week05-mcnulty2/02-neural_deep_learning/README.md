@@ -1,6 +1,6 @@
 ### Schedule
 
-**9:00 am**: [Pair Problem](pair.md)
+**9:00 am**: [Pair Problem](pair_derivatives.md)
 
 		Audrey, Mauro
 		Browning, Laura
