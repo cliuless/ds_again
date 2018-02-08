@@ -1,5 +1,7 @@
 ### Schedule
 
+If you haven't yet installed Chrome.. now is the time:)    
+
 **9:00 am**: [Pair Problem](pair.md)
 
 		Audrey, Christine.C
