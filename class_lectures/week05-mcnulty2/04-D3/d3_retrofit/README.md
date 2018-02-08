@@ -86,12 +86,6 @@ var xAxis = d3.axisBottom(x)
 var yAxis = d3.axisLeft(y)
     .ticks(5);
     
-// this also works: 
-var xAxis = d3.axisBottom(x)
-    .scale(x)
-
-var yAxis = d3.axisLeft(y)
-    .scale(y)
    
 ```
  - Update domain:
