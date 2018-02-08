@@ -85,6 +85,7 @@ d3.select("body")
 
 ```
 
+
 Now do a data join. Make an array called parts and create a new `p` element for each.
 
   ```
@@ -96,6 +97,19 @@ Now do a data join. Make an array called parts and create a new `p` element for 
         .append("p")
         .text(function(d) { return d; });
   ```
+  
+  
+Lets break that down:
+
+line 1) selectAll: will select all matching elements on our page:    
+line 2) data(parts): ~ identity function: for each element within our data, return a row of data     
+line 3) .enter() ~ "virtual selection": all the stuff after .enter() will happen for the case where we have a data element 
+but no corresponding page element    
+...
+
+
+
+
 [first check-point](first_data_join.html)
 
 
