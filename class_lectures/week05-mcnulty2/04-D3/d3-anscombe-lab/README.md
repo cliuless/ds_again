@@ -241,6 +241,11 @@ circleGroup.append("circle")
       .attr("r",5);
  ```
 
+[transform, translate?!]( https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Transformations)
+
+
+
+
 Checkpoint is [here](05-scale_via_transform.html).  
 
 7. Let's label the coordinate positions of each using text. Is another data join really necessary?
