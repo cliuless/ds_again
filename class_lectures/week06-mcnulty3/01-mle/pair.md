@@ -10,7 +10,7 @@ For each question below, say yes, no or somewhat for these classification algori
 
 #### Pair Question #2
 
-Do Friday's [pair problem](https://github.com/thisismetis/nyc18_ds14/blob/master/class_lectures/week05-mcnulty2/05-flask/pair_decorators.md) in JavaScript
+Do Friday's [pair problem](https://github.com/thisismetis/nyc18_ds14/blob/master/class_lectures/week05-mcnulty2/05-flask/pair_decorators.md) in JavaScript to see how straightforward it is.
 
     1) You can just do ispect on this very webpage and switch to the "Console" tab to write JS
     2) A function is defined as 'function' instead of 'def'. The body of a function is encased inside {}.
