@@ -29,3 +29,4 @@
 
  * [Maximum Likelihood bernoulli video ](https://www.youtube.com/watch?v=I_dhPETvll8)
  * [Maximum Likelihood normal distribution  ~ OLS](https://www.youtube.com/watch?v=_-Gnu498s3o)
+ * [andrew ng](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
