@@ -16,9 +16,9 @@
 		Wendy, Christine.L
 		Brad.S, Pavan
 
-**10:00 am**: [Categorical Data Analysis, Bernoulli and Binomial Distributions, and Maximum Likelihood](Categorical_mle.pdf)
+**10:00 am**: [Maximum Likelihood](MLE_class.ipynb)
 
-**11:00 am**: [Developing Maximum Likelihood](Maximum_Likelihood.pdf)
+
 
 **12:00pm**: Lunch!!!
 
@@ -27,4 +27,6 @@
 
 ### More Reading
 
- * [Maximum Likelihood](http://en.wikipedia.org/wiki/Maximum_likelihood)
+ * [Maximum Likelihood bernoulli video ](https://www.youtube.com/watch?v=I_dhPETvll8)
+ * [Maximum Likelihood normal distribution  ~ OLS](https://www.youtube.com/watch?v=_-Gnu498s3o)
+ * [andrew ng](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
