@@ -22,19 +22,21 @@ You will need to set up a Twitter account for today :)
 		Jaydon, Wendy
 		Sungwan, Malik
 
-**10:30 am**: [Introducing Project Fletcher](../../../projects/04-fletcher)
+**10:30 am**: Review of Project 3
 
-**11:00 am**: [NoSQL databases and MongoDB](NoSQL_and_MongoDB.pdf)
-
- * [mongoDB walk-through (Ubuntu)](mongodb_ubuntu.md)
+**11:00 am**: [Introducing Project Fletcher](../../../projects/04-fletcher)
 
 **12:00 pm**: Lunchtime.
 
 **1:00 pm**: Careers Presentation
 
-**2:00 pm**: Interacting with APIs. Using the [Twitter_API](Twitter_API.ipynb)
+**2:00 am**: [NoSQL databases and MongoDB](NoSQL_and_MongoDB.pdf)
 
-**2:30 pm**: Fletcher Brainstorm:
+ * [mongoDB walk-through (Ubuntu)](mongodb_ubuntu.md)
+
+**3:00 pm**: Interacting with APIs. Using the [Twitter_API](Twitter_API.ipynb)
+
+**3:30 pm**: Fletcher Brainstorm:
 
   * Problems to attack
   * Techniques to try
