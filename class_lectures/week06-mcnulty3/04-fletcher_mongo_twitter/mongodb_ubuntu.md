@@ -62,34 +62,6 @@ var c = td.find();
 while ( c.hasNext() ) { printjson( c.next() ) }
 ```
 
-You can search for things!
-
-```
-td.find( {x: { $lt: 20 } } );
-td.find( {name: { $lt: 'F' } } );
-```
-
-Let's put more things in mongo:
-
-```
-for (var i=1; i<=25; i++) {
-    td.insert( {x : i } );
-}
-td.find();
-it  // iterate
-```
-
-Now we can do some more interesting [queries](http://docs.mongodb.org/manual/tutorial/query-documents/):
-
-```
-td.find( {x: {$lt : 20 } } );
-td.find({$or: [
-               { name: "Eddie"},
-               {x: { $gt : 22 } }
-              ]
-});
-```
-
 Now, with Python! If you don't have `pymongo` installed, you can `pip install pymongo`.
 
 ```python
