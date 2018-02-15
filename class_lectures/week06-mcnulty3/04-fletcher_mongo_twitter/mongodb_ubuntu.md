@@ -93,23 +93,23 @@ from pymongo import MongoClient
 client = MongoClient()
 
 import pickle
-with open('heavy_metal_parsed.pkl', 'r') as infile:
+with open('heavy_metal_parsed.pkl', 'rb') as infile:
     reviews = pickle.load(infile)
 reviews[0].keys()
 reviews[0]
 len(reviews)
 
-hmm = client.my_cool_db.hmm
-hmm.insert(reviews[0])
-hmm.find().next()
+hmm_col = client.my_cool_db.hmm
+hmm_col.insert(reviews[0])
+hmm_col.find().next()
 
 for review in reviews[1:]:
-    hmm.save(review)
+    hmm_col.save(review)
 
 #some basic exploration:
 # lets see what one document looks like:
-hmm.find_one()
-hmm.count()      
+hmm_col.find_one()
+hmm_col.count()      
 ```
 
 Let's work on a version of Challenge #1:   
@@ -117,11 +117,11 @@ Make a list of the years in the heavy metal data.  How many heavy metal films ca
 
 ```python
 all_years = []
-for film in hmm.find({}, {"year": 1, "_id": 0}):
+for film in hmm_col.find({}, {"year": 1, "_id": 0}):
     all_years.append(film["year"])
     
 eighty=[]
-for film in hmm.find({"year":1980}, {"year": 1, "_id": 0}):
+for film in hmm_col.find({"year":1980}, {"year": 1, "_id": 0}):
     eighty.append(film["year"])
     
 len(eighty)
@@ -129,7 +129,7 @@ len(eighty)
 Using the aggregate function: let's get year frequency:
 
 ```
-cursor = hmm.aggregate([
+cursor = hmm_col.aggregate([
     {"$group": {
         "_id": "$year",
         "year_count": {"$sum": 1} 
