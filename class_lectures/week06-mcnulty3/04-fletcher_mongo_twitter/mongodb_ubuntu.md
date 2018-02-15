@@ -93,7 +93,7 @@ from pymongo import MongoClient
 client = MongoClient()
 
 import pickle
-with open('heavy_metal_parsed.pkl', 'r') as infile:
+with open('heavy_metal_parsed.pkl', 'rb') as infile:
     reviews = pickle.load(infile)
 reviews[0].keys()
 reviews[0]
