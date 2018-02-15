@@ -78,7 +78,7 @@ col = db.my_cool_collection
 Trying out the data from the challenges:
 (scp from your local machine)
 ```
-scp ~/nyc16_ds10/challenges/challenges_questions/14-mongo_twitter/heavy_metal_parsed.pkl.zip ubuntu:~
+scp ~/nyc18_ds14/challenges/challenges_questions/14-mongo_twitter/heavy_metal_parsed.pkl.zip ubuntu:~
 ```
 
 
