@@ -1,14 +1,26 @@
 ### Schedule
 
-**9:00 am**: GOOD MORNING IT IS NICE TO SEE YOU HUMAN
+**9:00 am**: [Pair Problem](pair.md)
 
-**9:15 am**: [Pair Problem](pair.md)
+    Audrey, Jit
+    Jeremy, Adam
+    Brian, Arina
+    Jon, Christine.L
+    Brad.D, Pavan
+    Summer, Brad.S
+    Louisa, Wendy
+    Will, Malik
+    Kevin, Sungwan
+    Matias, Jaydon
+    Christine.C, Rishabh
+    Laura, Chris
+    Mauro, Browning
 
 **10:00 am**: [word2vec](WORD2VEC_GENSIM.ipynb)
 
 **12:00 pm**: CONSUME FOODS
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
 
 ### Further Resources
