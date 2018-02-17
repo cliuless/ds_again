@@ -1,8 +1,20 @@
 ### Schedule
 
-**9:00 am**: Coffee and not pizza.
+**9:00 am**: [Pair Problem](pair.md).
 
-**9:15 am**: [Pair Problem](pair.md).
+        Audrey, Jeremy
+        Brian, Jit
+        Jon, Adam
+        Brad.D, Arina
+        Summer, Christine.L
+        Louisa, Pavan
+        Will, Brad.S
+        Kevin, Wendy
+        Matias, Malik
+        Christine.C, Sungwan
+        Laura, Jaydon
+        Mauro, Rishabh
+        Browning, Chris
 
 **10:00 am**: [Topic Modeling](Topic_Modeling.pdf)
 
@@ -10,9 +22,9 @@
 
 **12:00 pm**: Eating time
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
-** a heads up**: There will be a short quiz on Friday covering weeks 5-7! :)
+** a heads up**: There will be a short quiz on Monday covering weeks 5-7! :)
 
 ### Further Resources
 
