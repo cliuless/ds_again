@@ -1,23 +1,26 @@
 ### Schedule
 
-**9:00 am**: All your :coffee: are belong to us.
+**9:00 am**: Pair processing [question](pair.md).
 
-**9:15 am**: Pair processing [question](pair.md).
+    Audrey, Adam
+    Jit, Arina
+    Jeremy, Christine.L
+    Brian, Pavan
+    Jon, Brad.S
+    Brad.D, Wendy
+    Summer, Malik
+    Louisa, Sungwan
+    Will, Jaydon
+    Kevin, Rishabh
+    Matias, Chris
+    Christine.C, Browning
+    Laura, Mauro
 
-**10:00 am**: __MORE__ Unsupervised Learning with [Other Clustering Algorithms](Other_Clustering_Algorithms.pdf)
-
-**11:00 am**: Quiz Topics covering Weeks 5-7
-
-**Note to Instructors:**
-- the assessment is available in HackerRank:  [Assessment 2](https://www.hackerrank.com/x/tests/live/139464/questions)
-- assessment is closed book, closed notes
-- time allotted is 1 hour
-- there are ~ 40 questions
-- Reshama can provide a link to invite the students; can post on Slack
-- results will be conveyed by the program managers to the students (e.g. project grades)
+**10:30 am**: __MORE__ Unsupervised Learning with [Other Clustering Algorithms](Other_Clustering_Algorithms.pdf)
 
 **12:00 pm**: Lunch
 
+**1:00 pm**: Investigation
 
 
 #### Further Resources
