@@ -1,8 +1,20 @@
 ### Schedule
 
-**9:00 am**: Coffee like you've never coffee'd before!
+**9:00 am**: Pair processing [question](pair.md).
 
-**9:15 am**: Pair processing [question](pair.md).
+    Audrey, Brian
+    Jon, Jeremy
+    Brad.D, Jit
+    Summer, Adam
+    Louisa, Arina
+    Will, Christine.L
+    Kevin, Pavan
+    Matias, Brad.S
+    Christine.C, Wendy
+    Laura, Malik
+    Mauro, Sungwan
+    Browning, Jaydon
+    Chris, Rishabh
 
 **10:00 am**: [Dimensionality Reduction](Dimensionality_Reduction_PCA.pdf)
 
@@ -11,7 +23,7 @@
 
 **12:00 pm**: Food time
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
 
 #### More Resources
