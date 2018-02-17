@@ -1,19 +1,29 @@
 ### Schedule
 
-**9:00 am**: Rise and shine!
+**9:00 am**: [pairs](pair_mongo.ipynb).
 
-**9:15 am**: [pairs](pair_mongo.ipynb).
+    Audrey, Jon
+    Brad.D, Brian
+    Summer, Jeremy
+    Louisa, Jit
+    Will, Adam
+    Kevin, Arina
+    Matias, Christine.L
+    Christine.C, Pavan
+    Laura, Brad.S
+    Mauro, Wendy
+    Browning, Malik
+    Chris, Sungwan
+    Rishabh, Jaydon
 
-*Note to Instructors*:  If you havent started to already, this would be a good time to have students come to the board to whiteboard their answers.   In order to get a nice mix of students: randomly call on students to either come up or answer questions pertaining to the pair problem ( I call this the 'Wheel of learning' : numpy.random.choice(list_of_students) )
+**10:30 am**: [Unsupervised Learning and Clustering with K-Means](Unsupervised_Learning_Kmeans.pdf)
 
-**10:00 am**: [Unsupervised Learning and Clustering with K-Means](Unsupervised_Learning_Kmeans.pdf)
-
-**11:00 am**  [In-class clustering](digits_clustering.ipynb)
+**11:15 am**  [In-class clustering](digits_clustering.ipynb)
 (note to instructors: Reading in this digit data set will take a few minutes)
 
 **12:00 pm**: Lunch
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
 
 ### More Resources
