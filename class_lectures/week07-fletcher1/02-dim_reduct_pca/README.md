@@ -19,7 +19,7 @@
 **10:00 am**: [Dimensionality Reduction](Dimensionality_Reduction_PCA.pdf)
 
 * [Exploring the Curse of Dimensionality](Curse_of_Dimensionality.ipynb)
-* [PCA,SVD, et al](LSA_NMF.ipynb)
+* [PCA,SVD, et al](pca_SVD.ipynb)
 
 **12:00 pm**: Food time
 
