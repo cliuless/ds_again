@@ -6,4 +6,4 @@ You are given a [CSV file](user_movie_likes.csv) with two columns: UserID and Mo
 
 2) Write a function that will take a UserID and recommend three movies based on what they have liked.
 
-This an open-ended problem. Come up with a simple metric and just code it up. If you would like some guidance, at 9:40, I'll Slack an approach that you could take (but brainstorm 5-10 minutes before viewing the hint).
+This an open-ended problem. Come up with a simple metric and just code it up. If you would like some guidance, at 9:15, I'll Slack an approach that you could take (but brainstorm 5-10 minutes before viewing that).
