@@ -16,7 +16,7 @@
 		Will, Christine.C
 		Kevin, Matias
 
-**10:00 am**: [Deep Learning for NLP](DeepLearning.ipynb)
+**10:00 am**: [Deep Learning for NLP](https://github.com/thisismetis/nyc18_ds14/tree/master/class_lectures/week05-mcnulty2/02-neural_deep_learning/DeepLearningDive)
 
 **12:00 pm**: Lunch
 
