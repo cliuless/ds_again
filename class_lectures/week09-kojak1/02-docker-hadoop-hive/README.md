@@ -6,11 +6,20 @@
 
 **9:15 am**: Pair processing [question](pair.md).
 
-**9:45 am**: Intro to Kojak
+        Audrey, Sungwan
+        Malik, Jaydon
+        Wendy, Rishabh
+        Brad.S, Chris
+        Pavan, Browning
+        Christine.L, Mauro
+        Arina, Laura
+        Adam, Christine.C
+        Jit, Matias
+        Jeremy, Kevin
+        Brian, Will
+        Jon, Louisa
+        Brad.D, Summer
 
- * Group brainstorming is encouraged.
- * What problem do you really want to solve?
- * Move quickly and explore ideas and data!
 
 **10:00 am**: Docker!
 
