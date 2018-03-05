@@ -6,6 +6,20 @@
 
 **9:15 am**: Pair processing [question](pair.md).
 
+        Audrey, Sungwan
+        Malik, Jaydon
+        Wendy, Rishabh
+        Brad.S, Chris
+        Pavan, Browning
+        Christine.L, Mauro
+        Arina, Laura
+        Adam, Christine.C
+        Jit, Matias
+        Jeremy, Kevin
+        Brian, Will
+        Jon, Louisa
+        Brad.D, Summer
+
 **9:45 am**: Intro to Kojak
 
  * Group brainstorming is encouraged.
