@@ -20,11 +20,6 @@
         Jon, Louisa
         Brad.D, Summer
 
-**9:45 am**: Intro to Kojak
-
- * Group brainstorming is encouraged.
- * What problem do you really want to solve?
- * Move quickly and explore ideas and data!
 
 **10:00 am**: Docker!
 
