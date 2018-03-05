@@ -4,6 +4,20 @@
 
 **9:15 am**: [Pair question](pair_question_bias_vs_variance.md).
 
+  Audrey, Rishabh
+  Jaydon, Chris
+  Sungwan, Browning
+  Malik, Mauro
+  Wendy, Laura
+  Brad.S, Christine.C
+  Pavan, Matias
+  Christine.L, Kevin
+  Arina, Will
+  Adam, Louisa
+  Jit, Summer
+  Jeremy, Brad.D
+  Brian, Jon
+
 **10:00 am**: More Spark! 
 
  * [Quick Setup](Spark_Setup.ipynb), similar to yesterday
