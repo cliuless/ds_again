@@ -16,7 +16,7 @@
     Brad.D, Will
     Summer, Louisa
     
-  **9:45 am**: Intro to (Kojak)[https://github.com/thisismetis/nyc18_ds14/tree/master/projects/05-kojak]
+  **9:45 am**: Intro to [Kojak](https://github.com/thisismetis/nyc18_ds14/tree/master/projects/05-kojak)
 
 
  * What problem do you really want to solve?
