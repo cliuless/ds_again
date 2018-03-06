@@ -34,10 +34,9 @@
 
 **12:00 pm**: A delicious meal
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
- * Project Kojak: This is the final, full time one!
-
+**1:15 pm**:Project Time!
 
 ### Reading
 
