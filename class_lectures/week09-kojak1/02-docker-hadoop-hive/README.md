@@ -27,17 +27,16 @@
 
 **11:00 am**: MapReduce and Hadoop!
 
- * Intro to [Hadoop and MapReduce](hadoop_mapreduce.pdf)
+ * Intro to [Hadoop and MapReduce](hadoop_mapreduce_ds14.pdf)
  * Run [map and reduce](map_reduce.md) just like Hadoop, but without the Hadoop.
  * Hands on with [Hadoop](Hadoop_Introduction.ipynb) on your Docker instance!
  * Hands on with [Hive](hive.md) on your Docker instance!
 
 **12:00 pm**: A delicious meal
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
- * Project Kojak: This is the final, full time one!
-
+**1:15 pm**:Project Time!
 
 ### Reading
 
