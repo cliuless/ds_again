@@ -2,7 +2,21 @@
 
 **9:00 am**: Good morning!
 
-**9:15 am**: [Pair programming question](pair_map_reduce_tweets.md).
+**9:15 am**: [Pair programming question](pair.md).
+
+    Audrey, Jaydon
+    Sungwan, Rishabh
+    Malik, Chris
+    Wendy, Browning
+    Brad.S, Mauro
+    Pavan, Laura
+    Christine.L, Christine.C
+    Arina, Matias
+    Adam, Kevin
+    Jit, Will
+    Jeremy, Louisa
+    Brian, Summer
+    Jon, Brad.D
 
 **10:00 am**: Spark! :sparkles: :zap:
 

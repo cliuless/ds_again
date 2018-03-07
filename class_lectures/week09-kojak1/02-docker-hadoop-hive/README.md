@@ -6,11 +6,20 @@
 
 **9:15 am**: Pair processing [question](pair.md).
 
-**9:45 am**: Intro to Kojak
+        Audrey, Sungwan
+        Malik, Jaydon
+        Wendy, Rishabh
+        Brad.S, Chris
+        Pavan, Browning
+        Christine.L, Mauro
+        Arina, Laura
+        Adam, Christine.C
+        Jit, Matias
+        Jeremy, Kevin
+        Brian, Will
+        Jon, Louisa
+        Brad.D, Summer
 
- * Group brainstorming is encouraged.
- * What problem do you really want to solve?
- * Move quickly and explore ideas and data!
 
 **10:00 am**: Docker!
 
@@ -18,17 +27,16 @@
 
 **11:00 am**: MapReduce and Hadoop!
 
- * Intro to [Hadoop and MapReduce](hadoop_mapreduce.pdf)
+ * Intro to [Hadoop and MapReduce](hadoop_mapreduce_ds14.pdf)
  * Run [map and reduce](map_reduce.md) just like Hadoop, but without the Hadoop.
  * Hands on with [Hadoop](Hadoop_Introduction.ipynb) on your Docker instance!
  * Hands on with [Hive](hive.md) on your Docker instance!
 
 **12:00 pm**: A delicious meal
 
-**1:30 pm**: Investigation Presentation
+**1:00 pm**: Investigation Presentation
 
- * Project Kojak: This is the final, full time one!
-
+**1:15 pm**:Project Time!
 
 ### Reading
 
@@ -41,6 +49,7 @@
 
 #### Hadoop
 
+ * [Set up a multi-node cluster with Hadoop](http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-multi-node-cluster/)
  * [Latency numbers every programmer should know](https://gist.github.com/hellerbarde/2843375) (Disk is slow!)
  * [Install Hadoop on Mac OS](http://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/)
  * [What is Apache?](http://www.apache.org/foundation/faq.html#what)
