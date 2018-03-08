@@ -2,7 +2,7 @@
 
 **9:00 am**: Work all day
 
-**9:15 am**: [Pair question](pair_question_bias_vs_variance.md).
+**9:15 am**: [Pair problem](pair_spark_dummies.md).
 
     Audrey, Rishabh
     Jaydon, Chris
