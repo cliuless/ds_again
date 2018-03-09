@@ -2,7 +2,7 @@
 
 In this pair problem you will work with image data: specifically the famous MNIST data set.  
 
-1) The first objective is to build a neural net classifier using the fully connected neural net
+1) The objective is to build a neural net classifier using the fully connected neural net
 (i.e. ANN (artificial neural net ))
 
 Note: you can work locally for this problem & you wont need a larger machine on EC2.
