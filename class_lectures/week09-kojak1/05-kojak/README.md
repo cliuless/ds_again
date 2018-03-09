@@ -16,14 +16,14 @@
         Jit, Jon
         Jeremy, Brian
 
-**9:15 am**: [pair!](pair_amoebas_amoebas.md)
+**9:15 am**: [pair!](pair_MNIST.md)
 
 **10:00 am**: Prepare for maximum awesome.
 
- * Our your challenges submitted? They could be!
  * Project focus! How will you use your time?
      * Plan your work.
      * Plan your time.
+ * Are your challenges submitted? They could be! 
 
 **12:00 pm**: Good mythical lunch!
 
