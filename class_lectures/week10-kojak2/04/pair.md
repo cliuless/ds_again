@@ -14,4 +14,4 @@ Visualize your training as we did with CNNs.
 based on your visuals
 
 * If you have time, experiment with how you would train a model with
-variable length sentences.
+variable length sentences.    [hint](https://github.com/keras-team/keras/issues/40)
