@@ -1,5 +1,7 @@
 ### Schedule
 
+**9:00 am**: Optional Review 
+
 **9:30 am**: Kojak practice presentation #1
 
 **12:00 pm**: Lunch!
